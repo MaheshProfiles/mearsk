@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+    <string name="label_search_city">Search City</string>
+    <string name="label_search">Search</string>
+    <string name="error_results">No Results Found</string>
+    <string name="weather_reports">%1s - %2s</string>
+</resources>
